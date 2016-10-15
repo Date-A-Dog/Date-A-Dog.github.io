@@ -2,29 +2,29 @@
 
 Please read the document below for instructions on setting up your development environment.
 
-[Setting Up Your Development Environment](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Setting%20Up%20Your%20Development%20Environment.pdf)
+[Setting Up Your Development Environment](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Setting%20Up%20Your%20Development%20Environment.pdf)
 
 # Deliverables
 
 ## Project Proposal
 
-[Document](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Project%20Proposal/Date-a-Dog_doc.pdf)
+[Document](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Project%20Proposal/Date-a-Dog_doc.pdf)
 
-[Slides](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Project%20Proposal/Date-a-Dog_slides.pdf)
+[Slides](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Project%20Proposal/Date-a-Dog_slides.pdf)
 
 ## Software Requirements Specification
 
-[Product Description](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_ProductDescription.pdf)
+[Product Description](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_ProductDescription.pdf)
 
-[Use Cases](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_UseCases.pdf)
+[Use Cases](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_UseCases.pdf)
 
-[UI Diagrams](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_UIDiagrams.pdf)
+[UI Diagrams](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_UIDiagrams.pdf)
 
-[Process Description](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_ProcessDescription.pdf)
+[Process Description](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Software%20Requirements%20Specification/Date-a-Dog_ProcessDescription.pdf)
 
 ## Weekly Status Reports
 
-[Week 1](https://github.com/Date-a-Dog/Date-a-Dog/raw/master/Development%20Website/Deliverables/Weekly%20Status%20Reports/Weekly_Status_Report_Week1.docx)
+[Week 1](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Deliverables/Weekly%20Status%20Reports/Weekly_Status_Report_Week1.docx)
 
 # Slack
 
