@@ -2,7 +2,7 @@
 
 Please read the document below for instructions on setting up your development environment.
 
-[Setting Up Your Development Environment](https://github.com/Date-a-Dog/Date-a-Dog.github.io/raw/master/resources/Setting%20Up%20Your%20Development%20Environment.pdf)
+[Setting Up Your Development Environment](https://docs.google.com/document/d/12nLN1KkWVLe4ex4PiTTtocnz70bzgvzUPgqtOob_YV0/edit?usp=sharing)
 
 # Deliverables
 
