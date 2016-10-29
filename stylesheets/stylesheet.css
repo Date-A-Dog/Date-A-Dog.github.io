@@ -104,6 +104,9 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
+.pdfobject-container { height: 650px;}
+.pdfobject { border: 1px solid #666; }
+
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {
